@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace asp.netcore3._1learn
+namespace NETCore3_1
 {
     public class Program
     {

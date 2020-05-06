@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("asp.netcore3.1learn")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("NETCore3_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("asp.netcore3.1learn")]
-[assembly: System.Reflection.AssemblyTitleAttribute("asp.netcore3.1learn")]
+[assembly: System.Reflection.AssemblyProductAttribute("NETCore3_1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NETCore3_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>asp.netcore3._1learn</RootNamespace>
   </PropertyGroup>
 
 </Project>

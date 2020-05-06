@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DOTNET\\GitHub\\hougLife\\asp.netcore3.1learn\\asp.netcore3.1learn\\asp.netcore3.1learn\\asp.netcore3.1learn.csproj",
-      "projectName": "asp.netcore3.1learn",
-      "projectPath": "E:\\DOTNET\\GitHub\\hougLife\\asp.netcore3.1learn\\asp.netcore3.1learn\\asp.netcore3.1learn\\asp.netcore3.1learn.csproj",
+      "projectUniqueName": "E:\\DOTNET\\GitHub\\hougLife\\asp.netcore3.1learn\\NETCore3_1\\NETCore3_1\\NETCore3_1.csproj",
+      "projectName": "NETCore3_1",
+      "projectPath": "E:\\DOTNET\\GitHub\\hougLife\\asp.netcore3.1learn\\NETCore3_1\\NETCore3_1\\NETCore3_1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\DOTNET\\GitHub\\hougLife\\asp.netcore3.1learn\\asp.netcore3.1learn\\asp.netcore3.1learn\\obj\\",
+      "outputPath": "E:\\DOTNET\\GitHub\\hougLife\\asp.netcore3.1learn\\NETCore3_1\\NETCore3_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

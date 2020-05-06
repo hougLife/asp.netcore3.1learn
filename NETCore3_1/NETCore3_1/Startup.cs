@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace asp.netcore3._1learn
+namespace NETCore3_1
 {
     public class Startup
     {
