@@ -1,0 +1,13 @@
+﻿@using Microsoft.AspNetCore.Http;
+@{
+
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h1>@TempData["u1"]</h1>
+<h1>@ViewBag.u2</h1>
+<h1>@Context.Session.GetString("u3")</h1>
+<h1>@Model</h1>
+<h1>@ViewData["u4"]</h1>
+
